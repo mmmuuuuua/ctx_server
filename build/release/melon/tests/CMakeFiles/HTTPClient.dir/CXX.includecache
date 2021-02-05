@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zl/learning/melon/melon/melon/tests/HTTPClient.cpp
+netinet/in.h
+-
+sys/socket.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+sys/epoll.h
+-
+time.h
+-
+unistd.h
+-
+sys/types.h
+-
+arpa/inet.h
+-
+iostream
+-
+fcntl.h
+-
+

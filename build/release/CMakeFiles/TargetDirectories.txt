@@ -1,0 +1,16 @@
+/home/zl/learning/melon/build/release/CMakeFiles/edit_cache.dir
+/home/zl/learning/melon/build/release/CMakeFiles/rebuild_cache.dir
+/home/zl/learning/melon/build/release/melon/CMakeFiles/edit_cache.dir
+/home/zl/learning/melon/build/release/melon/CMakeFiles/TimerTest.dir
+/home/zl/learning/melon/build/release/melon/CMakeFiles/PingPongClient.dir
+/home/zl/learning/melon/build/release/melon/CMakeFiles/WebServer.dir
+/home/zl/learning/melon/build/release/melon/CMakeFiles/rebuild_cache.dir
+/home/zl/learning/melon/build/release/melon/base/CMakeFiles/edit_cache.dir
+/home/zl/learning/melon/build/release/melon/base/CMakeFiles/rebuild_cache.dir
+/home/zl/learning/melon/build/release/melon/base/CMakeFiles/libserver_base.dir
+/home/zl/learning/melon/build/release/melon/base/tests/CMakeFiles/edit_cache.dir
+/home/zl/learning/melon/build/release/melon/base/tests/CMakeFiles/rebuild_cache.dir
+/home/zl/learning/melon/build/release/melon/base/tests/CMakeFiles/LoggingTest.dir
+/home/zl/learning/melon/build/release/melon/tests/CMakeFiles/edit_cache.dir
+/home/zl/learning/melon/build/release/melon/tests/CMakeFiles/rebuild_cache.dir
+/home/zl/learning/melon/build/release/melon/tests/CMakeFiles/HTTPClient.dir
